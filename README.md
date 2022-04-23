@@ -1,4 +1,4 @@
-###<h2> ⭐️Hi, I'm Israel Fidel!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
+<h2> ⭐️Hi, I'm Israel Fidel!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> </h2>
 
 ### <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> A little more about me... <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="50">
 
