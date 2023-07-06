@@ -11,7 +11,7 @@ const aboutMe = {
          css: ["Angular Material","Bootstrap", "PrimeNG"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Express"],
          csharp: ["DevExpress"],
          API:["GraphQL"]
       },
